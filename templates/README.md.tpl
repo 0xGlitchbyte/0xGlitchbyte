@@ -10,6 +10,10 @@
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
+#### 🍴 My recent forks
+{{range recentForks 10}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
 
 #### 🔭 Latest releases I've contributed to
 {{range recentReleases 10}}
@@ -52,9 +56,8 @@ Say Hello, I don't bite!
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/...
-- Fediverse: https://mastodon.social/@...
-- Blog: https://...
+- Twitter: https://twitter.com/0xglitchbyte
+- Blog: https://glitchbyte.io
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 
