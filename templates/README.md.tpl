@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Glitchbyte, an open-source enthusiast and avid contributor. I'm the author of [Learn Rust with Tests](https://github.com/0xglitchbyte/learn_rust_with_tests),
-[rust2ocaml](https://github.com/0xglitchbyte/rust2ocaml), and other [projects](https://fribbledom.com/projects/). Curious what I've been working on recently?
+I'm Glitchbyte, an open-source enthusiast and avid contributor. I'm the author of [Learn Rust with Tests](https://github.com/0xglitchbyte/learn_rust_with_tests) and
+[rust2ocaml](https://github.com/0xglitchbyte/rust2ocaml). Curious what I've been working on recently?
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 
