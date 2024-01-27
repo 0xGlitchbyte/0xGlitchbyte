@@ -1,8 +1,17 @@
 ### Hi there 👋
 
+#### 👷 Check out what I'm currently working on
+{{range recentContributions 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
 
 #### 🌱 My latest projects
 {{range recentRepos 10}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
+
+#### 🍴 My recent forks
+{{range recentForks 10}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
@@ -47,8 +56,9 @@ Say Hello, I don't bite!
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/0xglitchbyte
-- Blog: https://glitchbyte.io
+- Twitter: https://twitter.com/...
+- Fediverse: https://mastodon.social/@...
+- Blog: https://...
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 
