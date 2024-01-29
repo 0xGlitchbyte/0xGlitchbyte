@@ -7,8 +7,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [0xGlitchbyte/rust2ocaml](https://github.com/0xGlitchbyte/rust2ocaml) - A Rust to OCaml source to source translator (1 day ago)
-- [0xGlitchbyte/dotfiles](https://github.com/0xGlitchbyte/dotfiles) - My current dotfiles (5 days ago)
+- [0xGlitchbyte/rust2ocaml](https://github.com/0xGlitchbyte/rust2ocaml) - A Rust to OCaml source to source translator (2 days ago)
+- [0xGlitchbyte/dotfiles](https://github.com/0xGlitchbyte/dotfiles) - My current dotfiles (6 days ago)
 - [0xGlitchbyte/dk64re](https://github.com/0xGlitchbyte/dk64re) - Decompilation of Donkey Kong 64 (1 week ago)
 - [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) - Learn Rust with Test-Driven Development  (1 week ago)
 - [0xGlitchbyte/Osteroids](https://github.com/0xGlitchbyte/Osteroids) - Asteroids clone written in OCaml (3 weeks ago)
@@ -43,11 +43,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code (1 day ago)
-- [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) - Reverse engineering focusing on x64 Windows. (1 day ago)
-- [zeldaret/mm](https://github.com/zeldaret/mm) - Decompilation of The Legend of Zelda: Majora&#39;s Mask (1 day ago)
-- [amitsingh19975/WebCamBench](https://github.com/amitsingh19975/WebCamBench) (2 days ago)
-- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos (3 days ago)
+- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code (2 days ago)
+- [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) - Reverse engineering focusing on x64 Windows. (2 days ago)
+- [zeldaret/mm](https://github.com/zeldaret/mm) - Decompilation of The Legend of Zelda: Majora&#39;s Mask (2 days ago)
+- [amitsingh19975/WebCamBench](https://github.com/amitsingh19975/WebCamBench) (3 days ago)
+- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos (4 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
