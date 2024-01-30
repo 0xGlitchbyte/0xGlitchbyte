@@ -43,11 +43,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [crazymykl/rust-koans](https://github.com/crazymykl/rust-koans) - Koans for the Rust programming language (today)
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code (3 days ago)
 - [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) - Reverse engineering focusing on x64 Windows. (3 days ago)
 - [zeldaret/mm](https://github.com/zeldaret/mm) - Decompilation of The Legend of Zelda: Majora&#39;s Mask (3 days ago)
 - [amitsingh19975/WebCamBench](https://github.com/amitsingh19975/WebCamBench) (4 days ago)
-- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos (5 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
