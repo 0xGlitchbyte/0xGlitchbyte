@@ -7,9 +7,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) - The official OCaml website. (today)
-- [0xGlitchbyte/rust2ocaml](https://github.com/0xGlitchbyte/rust2ocaml) - A Rust to OCaml source to source translator (2 days ago)
-- [0xGlitchbyte/dotfiles](https://github.com/0xGlitchbyte/dotfiles) - My current dotfiles (6 days ago)
+- [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) - The official OCaml website. (1 day ago)
+- [0xGlitchbyte/rust2ocaml](https://github.com/0xGlitchbyte/rust2ocaml) - A Rust to OCaml source to source translator (3 days ago)
+- [0xGlitchbyte/dotfiles](https://github.com/0xGlitchbyte/dotfiles) - My current dotfiles (1 week ago)
 - [0xGlitchbyte/dk64re](https://github.com/0xGlitchbyte/dk64re) - Decompilation of Donkey Kong 64 (1 week ago)
 - [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) - Learn Rust with Test-Driven Development  (1 week ago)
 
@@ -31,11 +31,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [cleaned up redirection urls](https://github.com/ocaml/ocaml.org/pull/1968) on [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) (1 week ago)
 - [updated links in README](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/8) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (1 week ago)
 - [Finished chapter 01_hello_world](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/7) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (2 weeks ago)
-- [cleaned some more links](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/6) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (2 weeks ago)
+- [cleaned some more links](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/6) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
-- [Example Cover Image](https://glitchbyte.io/posts/cover-image/) (6 months ago)
+- [Example Cover Image](https://glitchbyte.io/posts/cover-image/) (7 months ago)
 - [Testing testing 123!](https://glitchbyte.io/posts/hello-world/) (2 years ago)
 - [Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id](https://glitchbyte.io/posts/long-title/) (1 year ago)
 - [A post of Markdown elements](https://glitchbyte.io/posts/markdown-elements/) (11 months ago)
@@ -43,11 +43,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code (2 days ago)
-- [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) - Reverse engineering focusing on x64 Windows. (2 days ago)
-- [zeldaret/mm](https://github.com/zeldaret/mm) - Decompilation of The Legend of Zelda: Majora&#39;s Mask (2 days ago)
-- [amitsingh19975/WebCamBench](https://github.com/amitsingh19975/WebCamBench) (3 days ago)
-- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos (4 days ago)
+- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code (3 days ago)
+- [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) - Reverse engineering focusing on x64 Windows. (3 days ago)
+- [zeldaret/mm](https://github.com/zeldaret/mm) - Decompilation of The Legend of Zelda: Majora&#39;s Mask (3 days ago)
+- [amitsingh19975/WebCamBench](https://github.com/amitsingh19975/WebCamBench) (4 days ago)
+- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos (5 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
