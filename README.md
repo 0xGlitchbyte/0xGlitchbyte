@@ -44,7 +44,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### ⭐ Recent stars
 
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski&#39;s &#39;Category Theory for Programmers&#39; unofficial PDF and LaTeX source (today)
-- [formal-land/coq-of-rust](https://github.com/formal-land/coq-of-rust) - Formal verification for Rust 🦀. Make code proven without bugs! ✈️ 🚀 ⚕️ 🏦 EAL7-like assurance level (today)
+- [formal-land/coq-of-rust](https://github.com/formal-land/coq-of-rust) - Formal verification for Rust 🦀. Make code proven without bugs! ✈️ 🚀 ⚕️ 🏦 (today)
 - [Innf107/polaris](https://github.com/Innf107/polaris) - A functional programming language with shell scripting capabilities (2 days ago)
 - [crazymykl/rust-koans](https://github.com/crazymykl/rust-koans) - Koans for the Rust programming language (2 days ago)
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code (5 days ago)
