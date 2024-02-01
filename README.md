@@ -7,10 +7,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) - The official OCaml website. (2 days ago)
-- [0xGlitchbyte/rust2ocaml](https://github.com/0xGlitchbyte/rust2ocaml) - A Rust to OCaml source to source translator (4 days ago)
+- [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) - The official OCaml website. (3 days ago)
+- [0xGlitchbyte/rust2ocaml](https://github.com/0xGlitchbyte/rust2ocaml) - A Rust to OCaml source to source translator (5 days ago)
 - [0xGlitchbyte/dotfiles](https://github.com/0xGlitchbyte/dotfiles) - My current dotfiles (1 week ago)
-- [0xGlitchbyte/dk64re](https://github.com/0xGlitchbyte/dk64re) - Decompilation of Donkey Kong 64 (1 week ago)
+- [0xGlitchbyte/dk64re](https://github.com/0xGlitchbyte/dk64re) - Decompilation of Donkey Kong 64 (2 weeks ago)
 - [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) - Learn Rust with Test-Driven Development  (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -27,8 +27,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [cleaned up redirection urls](https://github.com/ocaml/ocaml.org/pull/1969) on [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) (1 week ago)
-- [cleaned up redirection urls](https://github.com/ocaml/ocaml.org/pull/1968) on [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) (1 week ago)
+- [cleaned up redirection urls](https://github.com/ocaml/ocaml.org/pull/1969) on [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) (2 weeks ago)
+- [cleaned up redirection urls](https://github.com/ocaml/ocaml.org/pull/1968) on [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) (2 weeks ago)
 - [updated links in README](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/8) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (2 weeks ago)
 - [Finished chapter 01_hello_world](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/7) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (2 weeks ago)
 - [cleaned some more links](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/6) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (3 weeks ago)
@@ -43,11 +43,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [Innf107/polaris](https://github.com/Innf107/polaris) - A functional programming language with shell scripting capabilities (1 day ago)
-- [crazymykl/rust-koans](https://github.com/crazymykl/rust-koans) - Koans for the Rust programming language (1 day ago)
-- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code (4 days ago)
-- [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) - Reverse engineering focusing on x64 Windows. (4 days ago)
-- [zeldaret/mm](https://github.com/zeldaret/mm) - Decompilation of The Legend of Zelda: Majora&#39;s Mask (4 days ago)
+- [formal-land/coq-of-rust](https://github.com/formal-land/coq-of-rust) - Formal verification for Rust 🦀. Make code proven without bugs! ✈️ 🚀 ⚕️ 🏦 EAL7-like assurance level (today)
+- [Innf107/polaris](https://github.com/Innf107/polaris) - A functional programming language with shell scripting capabilities (2 days ago)
+- [crazymykl/rust-koans](https://github.com/crazymykl/rust-koans) - Koans for the Rust programming language (2 days ago)
+- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code (5 days ago)
+- [0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) - Reverse engineering focusing on x64 Windows. (5 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
