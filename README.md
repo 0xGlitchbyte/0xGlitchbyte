@@ -7,8 +7,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [0xGlitchbyte/rust2ocaml](https://github.com/0xGlitchbyte/rust2ocaml) - A Rust to OCaml source to source translator (today)
-- [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) - The official OCaml website. (3 days ago)
+- [0xGlitchbyte/rust2ocaml](https://github.com/0xGlitchbyte/rust2ocaml) - A Rust to OCaml source to source translator (1 day ago)
+- [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) - The official OCaml website. (4 days ago)
 - [0xGlitchbyte/dotfiles](https://github.com/0xGlitchbyte/dotfiles) - My current dotfiles (1 week ago)
 - [0xGlitchbyte/dk64re](https://github.com/0xGlitchbyte/dk64re) - Decompilation of Donkey Kong 64 (2 weeks ago)
 - [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) - Learn Rust with Test-Driven Development  (2 weeks ago)
@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [cleaned up redirection urls](https://github.com/ocaml/ocaml.org/pull/1969) on [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) (2 weeks ago)
 - [cleaned up redirection urls](https://github.com/ocaml/ocaml.org/pull/1968) on [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) (2 weeks ago)
 - [updated links in README](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/8) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (2 weeks ago)
-- [Finished chapter 01_hello_world](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/7) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (2 weeks ago)
+- [Finished chapter 01_hello_world](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/7) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (3 weeks ago)
 - [cleaned some more links](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/6) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (3 weeks ago)
 
 #### 📜 My recent blog posts
@@ -43,11 +43,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [togglebyte/CodeRelay2024](https://github.com/togglebyte/CodeRelay2024) - Code Relay 2024 (today)
-- [michalzalobny/3d-renderer-in-c](https://github.com/michalzalobny/3d-renderer-in-c) - 3D graphics renderer made from scratch using the C programming language. (today)
-- [Innf107/Innf107.github.io](https://github.com/Innf107/Innf107.github.io) - My blog (today)
-- [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski&#39;s &#39;Category Theory for Programmers&#39; unofficial PDF and LaTeX source (today)
-- [formal-land/coq-of-rust](https://github.com/formal-land/coq-of-rust) - Formal verification for Rust 🦀. Make code proven without bugs! ✈️ 🚀 ⚕️ 🏦 (today)
+- [togglebyte/CodeRelay2024](https://github.com/togglebyte/CodeRelay2024) - Code Relay 2024 (1 day ago)
+- [michalzalobny/3d-renderer-in-c](https://github.com/michalzalobny/3d-renderer-in-c) - 3D graphics renderer made from scratch using the C programming language. (1 day ago)
+- [Innf107/Innf107.github.io](https://github.com/Innf107/Innf107.github.io) - My blog (1 day ago)
+- [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski&#39;s &#39;Category Theory for Programmers&#39; unofficial PDF and LaTeX source (1 day ago)
+- [formal-land/coq-of-rust](https://github.com/formal-land/coq-of-rust) - Formal verification for Rust 🦀. Make code proven without bugs! ✈️ 🚀 ⚕️ 🏦 (1 day ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
