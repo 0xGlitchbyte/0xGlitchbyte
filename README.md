@@ -43,11 +43,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [ExOK/Celeste64](https://github.com/ExOK/Celeste64) - A game made by the Celeste developers in a week(ish, closer to 2) (today)
 - [togglebyte/CodeRelay2024](https://github.com/togglebyte/CodeRelay2024) - Code Relay 2024 (1 day ago)
 - [michalzalobny/3d-renderer-in-c](https://github.com/michalzalobny/3d-renderer-in-c) - 3D graphics renderer made from scratch using the C programming language. (1 day ago)
 - [Innf107/Innf107.github.io](https://github.com/Innf107/Innf107.github.io) - My blog (1 day ago)
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski&#39;s &#39;Category Theory for Programmers&#39; unofficial PDF and LaTeX source (1 day ago)
-- [formal-land/coq-of-rust](https://github.com/formal-land/coq-of-rust) - Formal verification for Rust 🦀. Make code proven without bugs! ✈️ 🚀 ⚕️ 🏦 (1 day ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
