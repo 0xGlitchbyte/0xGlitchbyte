@@ -7,11 +7,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [0xGlitchbyte/OCrab](https://github.com/0xGlitchbyte/OCrab) - A Rust to OCaml source to source translator (1 day ago)
+- [0xGlitchbyte/OCrab](https://github.com/0xGlitchbyte/OCrab) - A Rust to OCaml source to source translator (2 days ago)
 - [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) - The official OCaml website. (1 week ago)
 - [0xGlitchbyte/dotfiles](https://github.com/0xGlitchbyte/dotfiles) - My current dotfiles (2 weeks ago)
 - [0xGlitchbyte/dk64re](https://github.com/0xGlitchbyte/dk64re) - Decompilation of Donkey Kong 64 (2 weeks ago)
-- [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) - Learn Rust with Test-Driven Development  (2 weeks ago)
+- [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) - Learn Rust with Test-Driven Development  (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -29,7 +29,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [cleaned up redirection urls](https://github.com/ocaml/ocaml.org/pull/1969) on [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) (2 weeks ago)
 - [cleaned up redirection urls](https://github.com/ocaml/ocaml.org/pull/1968) on [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) (2 weeks ago)
-- [updated links in README](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/8) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (2 weeks ago)
+- [updated links in README](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/8) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (3 weeks ago)
 - [Finished chapter 01_hello_world](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/7) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (3 weeks ago)
 - [cleaned some more links](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/6) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (4 weeks ago)
 
@@ -43,11 +43,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C&#43;&#43;) libraries. (3 days ago)
-- [ExOK/Celeste64](https://github.com/ExOK/Celeste64) - A game made by the Celeste developers in a week(ish, closer to 2) (4 days ago)
-- [togglebyte/CodeRelay2024](https://github.com/togglebyte/CodeRelay2024) - Code Relay 2024 (5 days ago)
-- [michalzalobny/3d-renderer-in-c](https://github.com/michalzalobny/3d-renderer-in-c) - 3D graphics renderer made from scratch using the C programming language. (5 days ago)
-- [Innf107/Innf107.github.io](https://github.com/Innf107/Innf107.github.io) - My blog (5 days ago)
+- [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C&#43;&#43;) libraries. (4 days ago)
+- [ExOK/Celeste64](https://github.com/ExOK/Celeste64) - A game made by the Celeste developers in a week(ish, closer to 2) (5 days ago)
+- [togglebyte/CodeRelay2024](https://github.com/togglebyte/CodeRelay2024) - Code Relay 2024 (6 days ago)
+- [michalzalobny/3d-renderer-in-c](https://github.com/michalzalobny/3d-renderer-in-c) - 3D graphics renderer made from scratch using the C programming language. (6 days ago)
+- [Innf107/Innf107.github.io](https://github.com/Innf107/Innf107.github.io) - My blog (6 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
