@@ -35,11 +35,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [Example Cover Image](https://glitchbyte.io/posts/cover-image/) (7 months ago)
-- [Testing testing 123!](https://glitchbyte.io/posts/hello-world/) (2 years ago)
-- [Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id](https://glitchbyte.io/posts/long-title/) (1 year ago)
-- [A post of Markdown elements](https://glitchbyte.io/posts/markdown-elements/) (11 months ago)
-- [This post doesn&#39;t have any content](https://glitchbyte.io/posts/missing-content/) (11 months ago)
+- [Rust wont save us, but it&#39;s ideas will](https://glitchbyte.io/posts/rust-wont-save-us/) (1 day ago)
 
 #### ⭐ Recent stars
 
