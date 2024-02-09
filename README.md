@@ -35,7 +35,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [Rust wont save us, but it&#39;s ideas will](https://glitchbyte.io/posts/rust-wont-save-us/) (2 days ago)
+- [Rust wont save us, but its ideas will](https://glitchbyte.io/posts/rust-wont-save-us/) (2 days ago)
 
 #### ⭐ Recent stars
 
