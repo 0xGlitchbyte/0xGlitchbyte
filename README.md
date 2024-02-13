@@ -9,7 +9,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [0xGlitchbyte/OCrab](https://github.com/0xGlitchbyte/OCrab) - A Rust to OCaml source to source translator (1 week ago)
 - [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) - The official OCaml website. (2 weeks ago)
-- [0xGlitchbyte/dotfiles](https://github.com/0xGlitchbyte/dotfiles) - My current dotfiles (2 weeks ago)
+- [0xGlitchbyte/dotfiles](https://github.com/0xGlitchbyte/dotfiles) - My current dotfiles (3 weeks ago)
 - [0xGlitchbyte/dk64re](https://github.com/0xGlitchbyte/dk64re) - Decompilation of Donkey Kong 64 (3 weeks ago)
 - [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) - Learn Rust with Test-Driven Development  (3 weeks ago)
 
@@ -35,7 +35,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [Rust wont save us, but its ideas will](https://glitchbyte.io/posts/rust-wont-save-us/) (5 days ago)
+- [Rust wont save us, but its ideas will](https://glitchbyte.io/posts/rust-wont-save-us/) (6 days ago)
 
 #### ⭐ Recent stars
 
