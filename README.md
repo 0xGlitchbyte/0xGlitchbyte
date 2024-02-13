@@ -8,18 +8,18 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [0xGlitchbyte/OCrab](https://github.com/0xGlitchbyte/OCrab) - A Rust to OCaml source to source translator (today)
+- [0xGlitchbyte/awesome-caravan](https://github.com/0xGlitchbyte/awesome-caravan) - A curated collection of the awesome work the Caravan Community is doing (today)
 - [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) - The official OCaml website. (2 weeks ago)
 - [0xGlitchbyte/dotfiles](https://github.com/0xGlitchbyte/dotfiles) - My current dotfiles (3 weeks ago)
 - [0xGlitchbyte/dk64re](https://github.com/0xGlitchbyte/dk64re) - Decompilation of Donkey Kong 64 (3 weeks ago)
-- [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) - Learn Rust with Test-Driven Development  (3 weeks ago)
 
 #### 🌱 My latest projects
 
+- [0xGlitchbyte/awesome-caravan](https://github.com/0xGlitchbyte/awesome-caravan) - A curated collection of the awesome work the Caravan Community is doing
 - [0xGlitchbyte/OCrab](https://github.com/0xGlitchbyte/OCrab) - A Rust to OCaml source to source translator
 - [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) - Learn Rust with Test-Driven Development 
 - [0xGlitchbyte/Osteroids](https://github.com/0xGlitchbyte/Osteroids) - Asteroids clone written in OCaml
 - [0xGlitchbyte/dotfiles](https://github.com/0xGlitchbyte/dotfiles) - My current dotfiles
-- [0xGlitchbyte/benny_bot](https://github.com/0xGlitchbyte/benny_bot)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -39,11 +39,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [ocaml-sys/ocaml-bindgen](https://github.com/ocaml-sys/ocaml-bindgen) - Automatically generates OCaml FFI bindings and C shim code to C/C&#43;&#43; libraries (today)
+- [dbcaml/dbcaml](https://github.com/dbcaml/dbcaml) - DBCaml is a database library for OCaml (today)
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C&#43;&#43;) libraries. (1 week ago)
 - [ExOK/Celeste64](https://github.com/ExOK/Celeste64) - A game made by the Celeste developers in a week(ish, closer to 2) (1 week ago)
 - [togglebyte/CodeRelay2024](https://github.com/togglebyte/CodeRelay2024) - Code Relay 2024 (1 week ago)
-- [michalzalobny/3d-renderer-in-c](https://github.com/michalzalobny/3d-renderer-in-c) - 3D graphics renderer made from scratch using the C programming language. (1 week ago)
-- [Innf107/Innf107.github.io](https://github.com/Innf107/Innf107.github.io) - My blog (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
