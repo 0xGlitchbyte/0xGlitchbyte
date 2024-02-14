@@ -7,8 +7,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [0xGlitchbyte/OCrab](https://github.com/0xGlitchbyte/OCrab) - A Rust to OCaml source to source translator (today)
-- [0xGlitchbyte/awesome-caravan](https://github.com/0xGlitchbyte/awesome-caravan) - A curated collection of the awesome work the Caravan Community is doing (today)
+- [0xGlitchbyte/OCrab](https://github.com/0xGlitchbyte/OCrab) - A Rust to OCaml source to source translator (1 day ago)
+- [0xGlitchbyte/awesome-caravan](https://github.com/0xGlitchbyte/awesome-caravan) - A curated collection of the awesome work the Caravan Community is doing (1 day ago)
 - [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) - The official OCaml website. (2 weeks ago)
 - [0xGlitchbyte/dotfiles](https://github.com/0xGlitchbyte/dotfiles) - My current dotfiles (3 weeks ago)
 - [0xGlitchbyte/dk64re](https://github.com/0xGlitchbyte/dk64re) - Decompilation of Donkey Kong 64 (3 weeks ago)
@@ -29,18 +29,18 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [cleaned up redirection urls](https://github.com/ocaml/ocaml.org/pull/1969) on [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) (3 weeks ago)
 - [cleaned up redirection urls](https://github.com/ocaml/ocaml.org/pull/1968) on [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) (3 weeks ago)
-- [updated links in README](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/8) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (3 weeks ago)
+- [updated links in README](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/8) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (4 weeks ago)
 - [Finished chapter 01_hello_world](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/7) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (1 month ago)
 - [cleaned some more links](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/6) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (1 month ago)
 
 #### 📜 My recent blog posts
 
-- [Rust wont save us, but its ideas will](https://glitchbyte.io/posts/rust-wont-save-us/) (6 days ago)
+- [Rust wont save us, but its ideas will](https://glitchbyte.io/posts/rust-wont-save-us/) (1 week ago)
 
 #### ⭐ Recent stars
 
-- [ocaml-sys/ocaml-bindgen](https://github.com/ocaml-sys/ocaml-bindgen) - Automatically generates OCaml FFI bindings and C shim code to C/C&#43;&#43; libraries (today)
-- [dbcaml/dbcaml](https://github.com/dbcaml/dbcaml) - DBCaml is a database library for OCaml (today)
+- [ocaml-sys/ocaml-bindgen](https://github.com/ocaml-sys/ocaml-bindgen) - Automatically generates OCaml FFI bindings and C shim code to C/C&#43;&#43; libraries (1 day ago)
+- [dbcaml/dbcaml](https://github.com/dbcaml/dbcaml) - DBCaml is a database library for OCaml (1 day ago)
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C&#43;&#43;) libraries. (1 week ago)
 - [ExOK/Celeste64](https://github.com/ExOK/Celeste64) - A game made by the Celeste developers in a week(ish, closer to 2) (1 week ago)
 - [togglebyte/CodeRelay2024](https://github.com/togglebyte/CodeRelay2024) - Code Relay 2024 (1 week ago)
