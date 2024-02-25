@@ -39,8 +39,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [trvswgnr/dynamic_object](https://github.com/trvswgnr/dynamic_object) - Dynamic, Type-Erased Key-Value Maps in Rust (1 day ago)
-- [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀 (4 days ago)
+- [trvswgnr/dynamic_object](https://github.com/trvswgnr/dynamic_object) - Dynamic, Type-Erased Key-Value Maps in Rust (2 days ago)
+- [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀 (5 days ago)
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science! (1 week ago)
 - [riot-ml/riot](https://github.com/riot-ml/riot) - An actor-model multi-core scheduler for OCaml 5 🐫 (1 week ago)
 - [ocaml-sys/ocaml-bindgen](https://github.com/ocaml-sys/ocaml-bindgen) - Automatically generates OCaml FFI bindings and C shim code to C/C&#43;&#43; libraries (1 week ago)
