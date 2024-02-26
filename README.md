@@ -9,7 +9,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [0xGlitchbyte/OCrab](https://github.com/0xGlitchbyte/OCrab) - A Rust to OCaml source to source translator (1 week ago)
 - [0xGlitchbyte/awesome-caravan](https://github.com/0xGlitchbyte/awesome-caravan) - A curated collection of the awesome work the Caravan Community is doing (1 week ago)
-- [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) - The official OCaml website. (3 weeks ago)
+- [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) - The official OCaml website. (4 weeks ago)
 - [0xGlitchbyte/dotfiles](https://github.com/0xGlitchbyte/dotfiles) - My current dotfiles (1 month ago)
 - [0xGlitchbyte/dk64re](https://github.com/0xGlitchbyte/dk64re) - Decompilation of Donkey Kong 64 (1 month ago)
 
@@ -39,10 +39,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [deidril/pf1-pdf-en-import](https://github.com/deidril/pf1-pdf-en-import) - A foundry vtt module to import Pathfinder 1 PDF (today)
-- [shraddhaag/1brc](https://github.com/shraddhaag/1brc) - Solution to One Billion Rows Challenge in Golang.  (today)
-- [trvswgnr/dynamic_object](https://github.com/trvswgnr/dynamic_object) - Dynamic, Type-Erased Key-Value Maps in Rust (2 days ago)
-- [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀 (5 days ago)
+- [deidril/pf1-pdf-en-import](https://github.com/deidril/pf1-pdf-en-import) - A foundry vtt module to import Pathfinder 1 PDF (1 day ago)
+- [shraddhaag/1brc](https://github.com/shraddhaag/1brc) - Solution to One Billion Rows Challenge in Golang.  (1 day ago)
+- [trvswgnr/dynamic_object](https://github.com/trvswgnr/dynamic_object) - Dynamic, Type-Erased Key-Value Maps in Rust (3 days ago)
+- [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀 (6 days ago)
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science! (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
