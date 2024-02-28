@@ -9,7 +9,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [0xGlitchbyte/OCrab](https://github.com/0xGlitchbyte/OCrab) - A Rust to OCaml source to source translator (2 weeks ago)
 - [0xGlitchbyte/awesome-caravan](https://github.com/0xGlitchbyte/awesome-caravan) - A curated collection of the awesome work the Caravan Community is doing (2 weeks ago)
-- [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) - The official OCaml website. (4 weeks ago)
+- [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) - The official OCaml website. (1 month ago)
 - [0xGlitchbyte/dotfiles](https://github.com/0xGlitchbyte/dotfiles) - My current dotfiles (1 month ago)
 - [0xGlitchbyte/dk64re](https://github.com/0xGlitchbyte/dk64re) - Decompilation of Donkey Kong 64 (1 month ago)
 
@@ -35,14 +35,14 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [Rust wont save us, but its ideas will](https://glitchbyte.io/posts/rust-wont-save-us/) (2 weeks ago)
+- [Rust wont save us, but its ideas will](https://glitchbyte.io/posts/rust-wont-save-us/) (3 weeks ago)
 
 #### ⭐ Recent stars
 
-- [DavidBuchanan314/p65a](https://github.com/DavidBuchanan314/p65a) - Pythonic 6502 Assembler: An experimental alternative to traditional assemblers. (today)
-- [deidril/pf1-pdf-en-import](https://github.com/deidril/pf1-pdf-en-import) - A foundry vtt module to import Pathfinder 1 PDF (2 days ago)
-- [shraddhaag/1brc](https://github.com/shraddhaag/1brc) - Solution to One Billion Rows Challenge in Golang.  (2 days ago)
-- [trvswgnr/dynamic_object](https://github.com/trvswgnr/dynamic_object) - Dynamic, Type-Erased Key-Value Maps in Rust (4 days ago)
+- [DavidBuchanan314/p65a](https://github.com/DavidBuchanan314/p65a) - Pythonic 6502 Assembler: An experimental alternative to traditional assemblers. (1 day ago)
+- [deidril/pf1-pdf-en-import](https://github.com/deidril/pf1-pdf-en-import) - A foundry vtt module to import Pathfinder 1 PDF (3 days ago)
+- [shraddhaag/1brc](https://github.com/shraddhaag/1brc) - Solution to One Billion Rows Challenge in Golang.  (3 days ago)
+- [trvswgnr/dynamic_object](https://github.com/trvswgnr/dynamic_object) - Dynamic, Type-Erased Key-Value Maps in Rust (5 days ago)
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀 (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
