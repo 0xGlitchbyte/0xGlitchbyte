@@ -39,11 +39,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [hneemann/Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator. (today)
+- [sam-astro/Astro8-Computer](https://github.com/sam-astro/Astro8-Computer) - Custom 16-bit homebrew CPU, emulator, renderer, circuit, and language (today)
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust  (1 day ago)
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (1 day ago)
 - [DavidBuchanan314/p65a](https://github.com/DavidBuchanan314/p65a) - Pythonic 6502 Assembler: An experimental alternative to traditional assemblers. (3 days ago)
-- [deidril/pf1-pdf-en-import](https://github.com/deidril/pf1-pdf-en-import) - A foundry vtt module to import Pathfinder 1 PDF (5 days ago)
-- [shraddhaag/1brc](https://github.com/shraddhaag/1brc) - Solution to One Billion Rows Challenge in Golang.  (5 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
