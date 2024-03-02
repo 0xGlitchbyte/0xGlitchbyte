@@ -39,11 +39,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [hneemann/Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator. (today)
-- [sam-astro/Astro8-Computer](https://github.com/sam-astro/Astro8-Computer) - Custom 16-bit homebrew CPU, emulator, renderer, circuit, and language (today)
-- [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust  (1 day ago)
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (1 day ago)
-- [DavidBuchanan314/p65a](https://github.com/DavidBuchanan314/p65a) - Pythonic 6502 Assembler: An experimental alternative to traditional assemblers. (3 days ago)
+- [hneemann/Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator. (1 day ago)
+- [sam-astro/Astro8-Computer](https://github.com/sam-astro/Astro8-Computer) - Custom 16-bit homebrew CPU, emulator, renderer, circuit, and language (1 day ago)
+- [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust  (2 days ago)
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (2 days ago)
+- [DavidBuchanan314/p65a](https://github.com/DavidBuchanan314/p65a) - Pythonic 6502 Assembler: An experimental alternative to traditional assemblers. (4 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
