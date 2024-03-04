@@ -39,11 +39,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [graydon/rust-prehistory](https://github.com/graydon/rust-prehistory) - historical archive of rust pre-publication development (today)
-- [hneemann/Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator. (2 days ago)
-- [sam-astro/Astro8-Computer](https://github.com/sam-astro/Astro8-Computer) - Custom 16-bit homebrew CPU, emulator, renderer, circuit, and language (2 days ago)
-- [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust  (3 days ago)
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (3 days ago)
+- [graydon/rust-prehistory](https://github.com/graydon/rust-prehistory) - historical archive of rust pre-publication development (1 day ago)
+- [hneemann/Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator. (3 days ago)
+- [sam-astro/Astro8-Computer](https://github.com/sam-astro/Astro8-Computer) - Custom 16-bit homebrew CPU, emulator, renderer, circuit, and language (3 days ago)
+- [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust  (4 days ago)
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (4 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
