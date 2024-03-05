@@ -7,8 +7,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [0xGlitchbyte/OCrab](https://github.com/0xGlitchbyte/OCrab) - A Rust to OCaml source to source translator (2 weeks ago)
-- [0xGlitchbyte/awesome-caravan](https://github.com/0xGlitchbyte/awesome-caravan) - A curated collection of the awesome work the Caravan Community is doing (2 weeks ago)
+- [0xGlitchbyte/OCrab](https://github.com/0xGlitchbyte/OCrab) - A Rust to OCaml source to source translator (3 weeks ago)
+- [0xGlitchbyte/awesome-caravan](https://github.com/0xGlitchbyte/awesome-caravan) - A curated collection of the awesome work the Caravan Community is doing (3 weeks ago)
 - [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) - The official OCaml website. (1 month ago)
 - [0xGlitchbyte/dotfiles](https://github.com/0xGlitchbyte/dotfiles) - My current dotfiles (1 month ago)
 - [0xGlitchbyte/dk64re](https://github.com/0xGlitchbyte/dk64re) - Decompilation of Donkey Kong 64 (1 month ago)
@@ -39,11 +39,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [PCGen/pcgen](https://github.com/PCGen/pcgen) - Main code and data development for pcgen program release (today)
-- [graydon/rust-prehistory](https://github.com/graydon/rust-prehistory) - historical archive of rust pre-publication development (1 day ago)
-- [hneemann/Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator. (3 days ago)
-- [sam-astro/Astro8-Computer](https://github.com/sam-astro/Astro8-Computer) - Custom 16-bit homebrew CPU, emulator, renderer, circuit, and language (3 days ago)
-- [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust  (4 days ago)
+- [PCGen/pcgen](https://github.com/PCGen/pcgen) - Main code and data development for pcgen program release (1 day ago)
+- [graydon/rust-prehistory](https://github.com/graydon/rust-prehistory) - historical archive of rust pre-publication development (2 days ago)
+- [hneemann/Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator. (4 days ago)
+- [sam-astro/Astro8-Computer](https://github.com/sam-astro/Astro8-Computer) - Custom 16-bit homebrew CPU, emulator, renderer, circuit, and language (4 days ago)
+- [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust  (5 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
