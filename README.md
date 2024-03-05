@@ -39,11 +39,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [Aedif/multi-token-edit](https://github.com/Aedif/multi-token-edit) - FoundryVTT module for editing multiple placeables at the same time. (today)
 - [PCGen/pcgen](https://github.com/PCGen/pcgen) - Main code and data development for pcgen program release (1 day ago)
 - [graydon/rust-prehistory](https://github.com/graydon/rust-prehistory) - historical archive of rust pre-publication development (2 days ago)
 - [hneemann/Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator. (4 days ago)
 - [sam-astro/Astro8-Computer](https://github.com/sam-astro/Astro8-Computer) - Custom 16-bit homebrew CPU, emulator, renderer, circuit, and language (4 days ago)
-- [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust  (5 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
