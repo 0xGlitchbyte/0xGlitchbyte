@@ -31,7 +31,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [cleaned up redirection urls](https://github.com/ocaml/ocaml.org/pull/1968) on [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) (1 month ago)
 - [updated links in README](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/8) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (1 month ago)
 - [Finished chapter 01_hello_world](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/7) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (1 month ago)
-- [cleaned some more links](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/6) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (1 month ago)
+- [cleaned some more links](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/6) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (2 months ago)
 
 #### 📜 My recent blog posts
 
@@ -39,10 +39,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!  (3 days ago)
-- [Aedif/multi-token-edit](https://github.com/Aedif/multi-token-edit) - FoundryVTT module for editing multiple placeables at the same time. (3 days ago)
-- [PCGen/pcgen](https://github.com/PCGen/pcgen) - Main code and data development for pcgen program release (4 days ago)
-- [graydon/rust-prehistory](https://github.com/graydon/rust-prehistory) - historical archive of rust pre-publication development (5 days ago)
+- [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!  (4 days ago)
+- [Aedif/multi-token-edit](https://github.com/Aedif/multi-token-edit) - FoundryVTT module for editing multiple placeables at the same time. (4 days ago)
+- [PCGen/pcgen](https://github.com/PCGen/pcgen) - Main code and data development for pcgen program release (5 days ago)
+- [graydon/rust-prehistory](https://github.com/graydon/rust-prehistory) - historical archive of rust pre-publication development (6 days ago)
 - [hneemann/Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
