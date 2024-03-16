@@ -23,7 +23,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [0xGlitchbyte/tome](https://github.com/0xGlitchbyte/tome) ([v1.1.9](https://github.com/0xGlitchbyte/tome/releases/tag/v1.1.9), 1 year ago) - A powerful, lightweight Tuffte CSS theme for Hugo.
+- [0xGlitchbyte/tome](https://github.com/0xGlitchbyte/tome) ([v1.1.9](https://github.com/0xGlitchbyte/tome/releases/tag/v1.1.9), 2 years ago) - A powerful, lightweight Tuffte CSS theme for Hugo.
 
 #### 🔨 Latest Pull Requests I published
 
@@ -39,7 +39,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [mtb0x1/Project-Based-Tutorials-in-C](https://github.com/mtb0x1/Project-Based-Tutorials-in-C) - A curated list of project-based tutorials in C (1 day ago)
+- [mtb0x1/Project-Based-Tutorials-in-C](https://github.com/mtb0x1/Project-Based-Tutorials-in-C) - A curated list of project-based tutorials in C (2 days ago)
 - [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!  (1 week ago)
 - [Aedif/multi-token-edit](https://github.com/Aedif/multi-token-edit) - FoundryVTT module for editing multiple placeables at the same time. (1 week ago)
 - [PCGen/pcgen](https://github.com/PCGen/pcgen) - Main code and data development for pcgen program release (1 week ago)
