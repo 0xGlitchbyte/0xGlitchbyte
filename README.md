@@ -10,7 +10,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [0xGlitchbyte/OCrab](https://github.com/0xGlitchbyte/OCrab) - A Rust to OCaml source to source translator (1 month ago)
 - [0xGlitchbyte/awesome-caravan](https://github.com/0xGlitchbyte/awesome-caravan) - A curated collection of the awesome work the Caravan Community is doing (1 month ago)
 - [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) - The official OCaml website. (1 month ago)
-- [0xGlitchbyte/dotfiles](https://github.com/0xGlitchbyte/dotfiles) - My current dotfiles (1 month ago)
+- [0xGlitchbyte/dotfiles](https://github.com/0xGlitchbyte/dotfiles) - My current dotfiles (2 months ago)
 - [0xGlitchbyte/dk64re](https://github.com/0xGlitchbyte/dk64re) - Decompilation of Donkey Kong 64 (2 months ago)
 
 #### 🌱 My latest projects
@@ -39,7 +39,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [nothings/single_file_libs](https://github.com/nothings/single_file_libs) - List of single-file C/C&#43;&#43; libraries. (5 days ago)
+- [nothings/single_file_libs](https://github.com/nothings/single_file_libs) - List of single-file C/C&#43;&#43; libraries. (6 days ago)
 - [mtb0x1/Project-Based-Tutorials-in-C](https://github.com/mtb0x1/Project-Based-Tutorials-in-C) - A curated list of project-based tutorials in C (1 week ago)
 - [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!  (2 weeks ago)
 - [Aedif/multi-token-edit](https://github.com/Aedif/multi-token-edit) - FoundryVTT module for editing multiple placeables at the same time. (2 weeks ago)
