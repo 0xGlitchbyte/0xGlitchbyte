@@ -41,8 +41,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [nothings/single_file_libs](https://github.com/nothings/single_file_libs) - List of single-file C/C&#43;&#43; libraries. (1 week ago)
 - [mtb0x1/Project-Based-Tutorials-in-C](https://github.com/mtb0x1/Project-Based-Tutorials-in-C) - A curated list of project-based tutorials in C (1 week ago)
-- [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!  (2 weeks ago)
-- [Aedif/multi-token-edit](https://github.com/Aedif/multi-token-edit) - FoundryVTT module for editing multiple placeables at the same time. (2 weeks ago)
+- [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!  (3 weeks ago)
+- [Aedif/multi-token-edit](https://github.com/Aedif/multi-token-edit) - FoundryVTT module for editing multiple placeables at the same time. (3 weeks ago)
 - [PCGen/pcgen](https://github.com/PCGen/pcgen) - Main code and data development for pcgen program release (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
