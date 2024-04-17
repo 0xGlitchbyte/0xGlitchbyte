@@ -11,7 +11,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [0xGlitchbyte/awesome-caravan](https://github.com/0xGlitchbyte/awesome-caravan) - A curated collection of the awesome work the Caravan Community is doing (2 months ago)
 - [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) - The official OCaml website. (2 months ago)
 - [0xGlitchbyte/dotfiles](https://github.com/0xGlitchbyte/dotfiles) - My current dotfiles (2 months ago)
-- [0xGlitchbyte/dk64re](https://github.com/0xGlitchbyte/dk64re) - Decompilation of Donkey Kong 64 (2 months ago)
+- [0xGlitchbyte/dk64re](https://github.com/0xGlitchbyte/dk64re) - Decompilation of Donkey Kong 64 (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -27,8 +27,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [cleaned up redirection urls](https://github.com/ocaml/ocaml.org/pull/1969) on [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) (2 months ago)
-- [cleaned up redirection urls](https://github.com/ocaml/ocaml.org/pull/1968) on [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) (2 months ago)
+- [cleaned up redirection urls](https://github.com/ocaml/ocaml.org/pull/1969) on [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) (3 months ago)
+- [cleaned up redirection urls](https://github.com/ocaml/ocaml.org/pull/1968) on [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) (3 months ago)
 - [updated links in README](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/8) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (3 months ago)
 - [Finished chapter 01_hello_world](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/7) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (3 months ago)
 - [cleaned some more links](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/6) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (3 months ago)
@@ -39,7 +39,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [m3y54m/Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap) - A comprehensive roadmap for aspiring Embedded Systems Engineers, featuring a curated list of learning resources. (1 week ago)
+- [m3y54m/Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap) - A comprehensive roadmap for aspiring Embedded Systems Engineers, featuring a curated list of learning resources. (2 weeks ago)
 - [nothings/single_file_libs](https://github.com/nothings/single_file_libs) - List of single-file C/C&#43;&#43; libraries. (1 month ago)
 - [mtb0x1/Project-Based-Tutorials-in-C](https://github.com/mtb0x1/Project-Based-Tutorials-in-C) - A curated list of project-based tutorials in C (1 month ago)
 - [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!  (1 month ago)
