@@ -39,10 +39,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [andrewrk/jamulator](https://github.com/andrewrk/jamulator) - (unmaintained) recompiling NES roms into native executables (1 week ago)
-- [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables (1 week ago)
-- [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora&#39;s Mask (and soon Ocarina of Time) for PC (Windows/Linux) (1 week ago)
-- [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C&#43;&#43; (4 weeks ago)
+- [andrewrk/jamulator](https://github.com/andrewrk/jamulator) - (unmaintained) recompiling NES roms into native executables (2 weeks ago)
+- [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables (2 weeks ago)
+- [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora&#39;s Mask (and soon Ocarina of Time) for PC (Windows/Linux) (2 weeks ago)
+- [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C&#43;&#43; (1 month ago)
 - [m3y54m/Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap) - A comprehensive roadmap for aspiring Embedded Systems Engineers, featuring a curated list of learning resources. (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
