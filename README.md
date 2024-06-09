@@ -39,7 +39,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [CyrekM/Perelandra](https://github.com/CyrekM/Perelandra) (today)
+- [CyrekM/Perelandra](https://github.com/CyrekM/Perelandra) (1 day ago)
 - [andrewrk/jamulator](https://github.com/andrewrk/jamulator) - (unmaintained) recompiling NES roms into native executables (2 weeks ago)
 - [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables (2 weeks ago)
 - [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora&#39;s Mask (and soon Ocarina of Time) for PC (Windows/Linux) (2 weeks ago)
