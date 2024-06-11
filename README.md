@@ -39,11 +39,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [JasonMillward/Autorippr](https://github.com/JasonMillward/Autorippr) - Rip discs automatically using a blend of Python, MakeMKV and HandBrake (today)
+- [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts (today)
 - [CyrekM/Perelandra](https://github.com/CyrekM/Perelandra) (3 days ago)
 - [andrewrk/jamulator](https://github.com/andrewrk/jamulator) - (unmaintained) recompiling NES roms into native executables (3 weeks ago)
 - [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables (3 weeks ago)
-- [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora&#39;s Mask (and soon Ocarina of Time) for PC (Windows/Linux) (3 weeks ago)
-- [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C&#43;&#43; (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
