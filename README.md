@@ -42,8 +42,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [JasonMillward/Autorippr](https://github.com/JasonMillward/Autorippr) - Rip discs automatically using a blend of Python, MakeMKV and HandBrake (1 week ago)
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts (1 week ago)
 - [CyrekM/Perelandra](https://github.com/CyrekM/Perelandra) (1 week ago)
-- [andrewrk/jamulator](https://github.com/andrewrk/jamulator) - (unmaintained) recompiling NES roms into native executables (4 weeks ago)
-- [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables (4 weeks ago)
+- [andrewrk/jamulator](https://github.com/andrewrk/jamulator) - (unmaintained) recompiling NES roms into native executables (1 month ago)
+- [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
