@@ -39,11 +39,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [ubavic/awesome-interactive-math](https://github.com/ubavic/awesome-interactive-math) - A curated list of tools that can be used for creating interactive mathematical  explorables. (today)
 - [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover (2 days ago)
 - [BinaryAnalysisPlatform/bap](https://github.com/BinaryAnalysisPlatform/bap) - Binary Analysis Platform (2 days ago)
 - [JasonMillward/Autorippr](https://github.com/JasonMillward/Autorippr) - Rip discs automatically using a blend of Python, MakeMKV and HandBrake (2 weeks ago)
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts (2 weeks ago)
-- [CyrekM/Perelandra](https://github.com/CyrekM/Perelandra) (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
