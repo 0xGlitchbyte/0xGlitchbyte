@@ -9,7 +9,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [0xGlitchbyte/OCrab](https://github.com/0xGlitchbyte/OCrab) - A Rust to OCaml source to source translator (4 months ago)
 - [0xGlitchbyte/awesome-caravan](https://github.com/0xGlitchbyte/awesome-caravan) - A curated collection of the awesome work the Caravan Community is doing (4 months ago)
-- [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) - The official OCaml website. (4 months ago)
+- [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) - The official OCaml website. (5 months ago)
 - [0xGlitchbyte/dotfiles](https://github.com/0xGlitchbyte/dotfiles) - My current dotfiles (5 months ago)
 - [0xGlitchbyte/dk64re](https://github.com/0xGlitchbyte/dk64re) - Decompilation of Donkey Kong 64 (5 months ago)
 
@@ -39,8 +39,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover (1 day ago)
-- [BinaryAnalysisPlatform/bap](https://github.com/BinaryAnalysisPlatform/bap) - Binary Analysis Platform (1 day ago)
+- [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover (2 days ago)
+- [BinaryAnalysisPlatform/bap](https://github.com/BinaryAnalysisPlatform/bap) - Binary Analysis Platform (2 days ago)
 - [JasonMillward/Autorippr](https://github.com/JasonMillward/Autorippr) - Rip discs automatically using a blend of Python, MakeMKV and HandBrake (2 weeks ago)
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts (2 weeks ago)
 - [CyrekM/Perelandra](https://github.com/CyrekM/Perelandra) (2 weeks ago)
