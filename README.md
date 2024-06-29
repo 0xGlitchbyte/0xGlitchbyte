@@ -39,11 +39,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [josephmcasey/Mastering-Algorithms-with-C](https://github.com/josephmcasey/Mastering-Algorithms-with-C) - This repository contains example files organized by chapters in Mastering Algorithms with C, by Kyle Loudon (today)
-- [adamtheone/canDrive](https://github.com/adamtheone/canDrive) - Tools for hacking your car (today)
-- [ubavic/awesome-interactive-math](https://github.com/ubavic/awesome-interactive-math) - A curated list of tools that can be used for creating interactive mathematical  explorables. (1 day ago)
-- [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover (3 days ago)
-- [BinaryAnalysisPlatform/bap](https://github.com/BinaryAnalysisPlatform/bap) - Binary Analysis Platform (3 days ago)
+- [josephmcasey/Mastering-Algorithms-with-C](https://github.com/josephmcasey/Mastering-Algorithms-with-C) - This repository contains example files organized by chapters in Mastering Algorithms with C, by Kyle Loudon (1 day ago)
+- [adamtheone/canDrive](https://github.com/adamtheone/canDrive) - Tools for hacking your car (1 day ago)
+- [ubavic/awesome-interactive-math](https://github.com/ubavic/awesome-interactive-math) - A curated list of tools that can be used for creating interactive mathematical  explorables. (2 days ago)
+- [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover (4 days ago)
+- [BinaryAnalysisPlatform/bap](https://github.com/BinaryAnalysisPlatform/bap) - Binary Analysis Platform (4 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
