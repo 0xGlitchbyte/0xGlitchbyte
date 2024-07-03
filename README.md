@@ -39,9 +39,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [josephmcasey/Mastering-Algorithms-with-C](https://github.com/josephmcasey/Mastering-Algorithms-with-C) - This repository contains example files organized by chapters in Mastering Algorithms with C, by Kyle Loudon (4 days ago)
-- [adamtheone/canDrive](https://github.com/adamtheone/canDrive) - Tools for hacking your car (4 days ago)
-- [ubavic/awesome-interactive-math](https://github.com/ubavic/awesome-interactive-math) - A curated list of tools that can be used for creating interactive mathematical  explorables. (5 days ago)
+- [josephmcasey/Mastering-Algorithms-with-C](https://github.com/josephmcasey/Mastering-Algorithms-with-C) - This repository contains example files organized by chapters in Mastering Algorithms with C, by Kyle Loudon (5 days ago)
+- [adamtheone/canDrive](https://github.com/adamtheone/canDrive) - Tools for hacking your car (5 days ago)
+- [ubavic/awesome-interactive-math](https://github.com/ubavic/awesome-interactive-math) - A curated list of tools that can be used for creating interactive mathematical  explorables. (6 days ago)
 - [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover (1 week ago)
 - [BinaryAnalysisPlatform/bap](https://github.com/BinaryAnalysisPlatform/bap) - Binary Analysis Platform (1 week ago)
 
