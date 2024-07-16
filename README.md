@@ -11,7 +11,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [0xGlitchbyte/awesome-caravan](https://github.com/0xGlitchbyte/awesome-caravan) - A curated collection of the awesome work the Caravan Community is doing (5 months ago)
 - [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) - The official OCaml website. (5 months ago)
 - [0xGlitchbyte/dotfiles](https://github.com/0xGlitchbyte/dotfiles) - My current dotfiles (5 months ago)
-- [0xGlitchbyte/dk64re](https://github.com/0xGlitchbyte/dk64re) - Decompilation of Donkey Kong 64 (5 months ago)
+- [0xGlitchbyte/dk64re](https://github.com/0xGlitchbyte/dk64re) - Decompilation of Donkey Kong 64 (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -27,8 +27,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [cleaned up redirection urls](https://github.com/ocaml/ocaml.org/pull/1969) on [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) (5 months ago)
-- [cleaned up redirection urls](https://github.com/ocaml/ocaml.org/pull/1968) on [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) (5 months ago)
+- [cleaned up redirection urls](https://github.com/ocaml/ocaml.org/pull/1969) on [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) (6 months ago)
+- [cleaned up redirection urls](https://github.com/ocaml/ocaml.org/pull/1968) on [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) (6 months ago)
 - [updated links in README](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/8) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (6 months ago)
 - [Finished chapter 01_hello_world](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/7) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (6 months ago)
 - [cleaned some more links](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/6) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (6 months ago)
@@ -42,8 +42,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [josephmcasey/Mastering-Algorithms-with-C](https://github.com/josephmcasey/Mastering-Algorithms-with-C) - This repository contains example files organized by chapters in Mastering Algorithms with C, by Kyle Loudon (2 weeks ago)
 - [adamtheone/canDrive](https://github.com/adamtheone/canDrive) - Tools for hacking your car (2 weeks ago)
 - [ubavic/awesome-interactive-math](https://github.com/ubavic/awesome-interactive-math) - A curated list of tools that can be used for creating interactive mathematical  explorables. (2 weeks ago)
-- [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover (2 weeks ago)
-- [BinaryAnalysisPlatform/bap](https://github.com/BinaryAnalysisPlatform/bap) - Binary Analysis Platform (2 weeks ago)
+- [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover (3 weeks ago)
+- [BinaryAnalysisPlatform/bap](https://github.com/BinaryAnalysisPlatform/bap) - Binary Analysis Platform (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
