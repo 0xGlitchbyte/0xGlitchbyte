@@ -39,7 +39,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (1 week ago)
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (2 weeks ago)
 - [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!) (2 weeks ago)
 - [mahmoudnafifi/Semantic-Color-Constancy-Using-CNN](https://github.com/mahmoudnafifi/Semantic-Color-Constancy-Using-CNN) - Semantic information can help CNNs to get better illuminant estimation -- a proof of concept  (2 weeks ago)
 - [josephmcasey/Mastering-Algorithms-with-C](https://github.com/josephmcasey/Mastering-Algorithms-with-C) - This repository contains example files organized by chapters in Mastering Algorithms with C, by Kyle Loudon (1 month ago)
