@@ -10,7 +10,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [0xGlitchbyte/OCrab](https://github.com/0xGlitchbyte/OCrab) - A Rust to OCaml source to source translator (7 months ago)
 - [0xGlitchbyte/awesome-caravan](https://github.com/0xGlitchbyte/awesome-caravan) - A curated collection of the awesome work the Caravan Community is doing (7 months ago)
 - [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) - The official OCaml website. (7 months ago)
-- [0xGlitchbyte/dotfiles](https://github.com/0xGlitchbyte/dotfiles) - My current dotfiles (7 months ago)
+- [0xGlitchbyte/dotfiles](https://github.com/0xGlitchbyte/dotfiles) - My current dotfiles (8 months ago)
 - [0xGlitchbyte/dk64re](https://github.com/0xGlitchbyte/dk64re) - Decompilation of Donkey Kong 64 (8 months ago)
 
 #### 🌱 My latest projects
@@ -39,7 +39,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [quant-science/sunday-quant-scientist](https://github.com/quant-science/sunday-quant-scientist) - A Free Newsletter for Quantitative and Algorithmic Trading, Portfolio Analysis, and Investing (2 days ago)
+- [quant-science/sunday-quant-scientist](https://github.com/quant-science/sunday-quant-scientist) - A Free Newsletter for Quantitative and Algorithmic Trading, Portfolio Analysis, and Investing (3 days ago)
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (1 month ago)
 - [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!) (1 month ago)
 - [mahmoudnafifi/Semantic-Color-Constancy-Using-CNN](https://github.com/mahmoudnafifi/Semantic-Color-Constancy-Using-CNN) - Semantic information can help CNNs to get better illuminant estimation -- a proof of concept  (1 month ago)
