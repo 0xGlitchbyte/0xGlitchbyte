@@ -40,7 +40,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### ⭐ Recent stars
 
 - [quant-science/sunday-quant-scientist](https://github.com/quant-science/sunday-quant-scientist) - A Free Newsletter for Quantitative and Algorithmic Trading, Portfolio Analysis, and Investing (1 week ago)
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (1 month ago)
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (2 months ago)
 - [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!) (2 months ago)
 - [mahmoudnafifi/Semantic-Color-Constancy-Using-CNN](https://github.com/mahmoudnafifi/Semantic-Color-Constancy-Using-CNN) - Semantic information can help CNNs to get better illuminant estimation -- a proof of concept  (2 months ago)
 - [josephmcasey/Mastering-Algorithms-with-C](https://github.com/josephmcasey/Mastering-Algorithms-with-C) - This repository contains example files organized by chapters in Mastering Algorithms with C, by Kyle Loudon (3 months ago)
