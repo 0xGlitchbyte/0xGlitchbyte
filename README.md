@@ -23,7 +23,6 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [0xGlitchbyte/tome](https://github.com/0xGlitchbyte/tome) ([v1.1.9](https://github.com/0xGlitchbyte/tome/releases/tag/v1.1.9), 2 years ago) - A powerful, lightweight Tuffte CSS theme for Hugo.
 
 #### 🔨 Latest Pull Requests I published
 
