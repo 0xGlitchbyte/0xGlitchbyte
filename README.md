@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [cleaned up redirection urls](https://github.com/ocaml/ocaml.org/pull/1968) on [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) (8 months ago)
 - [updated links in README](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/8) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (8 months ago)
 - [Finished chapter 01_hello_world](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/7) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (8 months ago)
-- [cleaned some more links](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/6) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (8 months ago)
+- [cleaned some more links](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/6) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (9 months ago)
 
 #### 📜 My recent blog posts
 
