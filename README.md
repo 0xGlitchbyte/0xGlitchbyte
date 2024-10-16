@@ -38,8 +38,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [nCally/Project-Based-Tutorials-in-C](https://github.com/nCally/Project-Based-Tutorials-in-C) - A curated list of project-based tutorials in C (today)
-- [quant-science/sunday-quant-scientist](https://github.com/quant-science/sunday-quant-scientist) - A Free Newsletter for Quantitative and Algorithmic Trading, Portfolio Analysis, and Investing (4 weeks ago)
+- [nCally/Project-Based-Tutorials-in-C](https://github.com/nCally/Project-Based-Tutorials-in-C) - A curated list of project-based tutorials in C (1 day ago)
+- [quant-science/sunday-quant-scientist](https://github.com/quant-science/sunday-quant-scientist) - A Free Newsletter for Quantitative and Algorithmic Trading, Portfolio Analysis, and Investing (1 month ago)
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (2 months ago)
 - [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!) (2 months ago)
 - [mahmoudnafifi/Semantic-Color-Constancy-Using-CNN](https://github.com/mahmoudnafifi/Semantic-Color-Constancy-Using-CNN) - Semantic information can help CNNs to get better illuminant estimation -- a proof of concept  (2 months ago)
