@@ -7,7 +7,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [0xGlitchbyte/gblib](https://github.com/0xGlitchbyte/gblib) - Single header lib for all my C needs. (3 days ago)
+- [0xGlitchbyte/gblib](https://github.com/0xGlitchbyte/gblib) - Single header lib for all my C needs. (4 days ago)
 - [0xGlitchbyte/OCrab](https://github.com/0xGlitchbyte/OCrab) - A Rust to OCaml source to source translator (8 months ago)
 - [0xGlitchbyte/awesome-caravan](https://github.com/0xGlitchbyte/awesome-caravan) - A curated collection of the awesome work the Caravan Community is doing (8 months ago)
 - [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) - The official OCaml website. (8 months ago)
@@ -38,11 +38,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [phy1um/ps2-homebrew-livestreams](https://github.com/phy1um/ps2-homebrew-livestreams) - Repo for code written during my Playstation 2 Homebrew livestreams (1 day ago)
-- [ps2dev/ps2sdk](https://github.com/ps2dev/ps2sdk) - Homebrew PS2 SDK (1 day ago)
-- [h4570/tyra](https://github.com/h4570/tyra) - Game engine for PlayStation 2™ (1 day ago)
-- [sebastiencs/shared-arena](https://github.com/sebastiencs/shared-arena) - A thread-safe &amp; efficient memory pool (3 days ago)
-- [tsoding/arena](https://github.com/tsoding/arena) - Arena Allocator implementation in pure C as an stb-style single-file library. (3 days ago)
+- [phy1um/ps2-homebrew-livestreams](https://github.com/phy1um/ps2-homebrew-livestreams) - Repo for code written during my Playstation 2 Homebrew livestreams (2 days ago)
+- [ps2dev/ps2sdk](https://github.com/ps2dev/ps2sdk) - Homebrew PS2 SDK (2 days ago)
+- [h4570/tyra](https://github.com/h4570/tyra) - Game engine for PlayStation 2™ (2 days ago)
+- [sebastiencs/shared-arena](https://github.com/sebastiencs/shared-arena) - A thread-safe &amp; efficient memory pool (4 days ago)
+- [tsoding/arena](https://github.com/tsoding/arena) - Arena Allocator implementation in pure C as an stb-style single-file library. (4 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
