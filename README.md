@@ -38,9 +38,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [phy1um/ps2-homebrew-livestreams](https://github.com/phy1um/ps2-homebrew-livestreams) - Repo for code written during my Playstation 2 Homebrew livestreams (5 days ago)
-- [ps2dev/ps2sdk](https://github.com/ps2dev/ps2sdk) - Homebrew PS2 SDK (5 days ago)
-- [h4570/tyra](https://github.com/h4570/tyra) - Game engine for PlayStation 2™ (5 days ago)
+- [phy1um/ps2-homebrew-livestreams](https://github.com/phy1um/ps2-homebrew-livestreams) - Repo for code written during my Playstation 2 Homebrew livestreams (6 days ago)
+- [ps2dev/ps2sdk](https://github.com/ps2dev/ps2sdk) - Homebrew PS2 SDK (6 days ago)
+- [h4570/tyra](https://github.com/h4570/tyra) - Game engine for PlayStation 2™ (6 days ago)
 - [sebastiencs/shared-arena](https://github.com/sebastiencs/shared-arena) - A thread-safe &amp; efficient memory pool (1 week ago)
 - [tsoding/arena](https://github.com/tsoding/arena) - Arena Allocator implementation in pure C as an stb-style single-file library. (1 week ago)
 
