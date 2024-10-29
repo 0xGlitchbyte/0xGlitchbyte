@@ -38,11 +38,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (today)
 - [phy1um/ps2-homebrew-livestreams](https://github.com/phy1um/ps2-homebrew-livestreams) - Repo for code written during my Playstation 2 Homebrew livestreams (1 week ago)
 - [ps2dev/ps2sdk](https://github.com/ps2dev/ps2sdk) - Homebrew PS2 SDK (1 week ago)
 - [h4570/tyra](https://github.com/h4570/tyra) - Game engine for PlayStation 2™ (1 week ago)
 - [sebastiencs/shared-arena](https://github.com/sebastiencs/shared-arena) - A thread-safe &amp; efficient memory pool (1 week ago)
-- [tsoding/arena](https://github.com/tsoding/arena) - Arena Allocator implementation in pure C as an stb-style single-file library. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
