@@ -7,7 +7,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [0xGlitchbyte/GalacticGolf](https://github.com/0xGlitchbyte/GalacticGolf) - A physics based golf minigame for the 2024 N64brew Game Jam (2 days ago)
+- [0xGlitchbyte/GalacticGolf](https://github.com/0xGlitchbyte/GalacticGolf) - A physics based golf minigame for the 2024 N64brew Game Jam (3 days ago)
 - [0xGlitchbyte/gblib](https://github.com/0xGlitchbyte/gblib) - Single header lib for all my C needs. (2 weeks ago)
 - [0xGlitchbyte/OCrab](https://github.com/0xGlitchbyte/OCrab) - A Rust to OCaml source to source translator (8 months ago)
 - [0xGlitchbyte/awesome-caravan](https://github.com/0xGlitchbyte/awesome-caravan) - A curated collection of the awesome work the Caravan Community is doing (8 months ago)
@@ -34,15 +34,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 📜 My recent blog posts
 
-- [Rust wont save us, but its ideas will](https://glitchbyte.io/posts/rust-wont-save-us/) (8 months ago)
+- [Rust wont save us, but its ideas will](https://glitchbyte.io/posts/rust-wont-save-us/) (9 months ago)
 
 #### ⭐ Recent stars
 
-- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (4 days ago)
+- [skerkour/kerkour.com](https://github.com/skerkour/kerkour.com) - (Ab)using technology for fun &amp; profit. Programming, Hacking &amp; Entrepreneurship @ https://kerkour.com (1 day ago)
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (5 days ago)
 - [phy1um/ps2-homebrew-livestreams](https://github.com/phy1um/ps2-homebrew-livestreams) - Repo for code written during my Playstation 2 Homebrew livestreams (2 weeks ago)
 - [ps2dev/ps2sdk](https://github.com/ps2dev/ps2sdk) - Homebrew PS2 SDK (2 weeks ago)
 - [h4570/tyra](https://github.com/h4570/tyra) - Game engine for PlayStation 2™ (2 weeks ago)
-- [sebastiencs/shared-arena](https://github.com/sebastiencs/shared-arena) - A thread-safe &amp; efficient memory pool (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
