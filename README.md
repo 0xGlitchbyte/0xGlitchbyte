@@ -7,10 +7,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [0xGlitchbyte/GalacticGolf](https://github.com/0xGlitchbyte/GalacticGolf) - A physics based golf minigame for the 2024 N64brew Game Jam (4 days ago)
-- [0xGlitchbyte/gblib](https://github.com/0xGlitchbyte/gblib) - Single header lib for all my C needs. (2 weeks ago)
-- [0xGlitchbyte/OCrab](https://github.com/0xGlitchbyte/OCrab) - A Rust to OCaml source to source translator (8 months ago)
+- [0xGlitchbyte/GalacticGolf](https://github.com/0xGlitchbyte/GalacticGolf) - A physics based golf minigame for the 2024 N64brew Game Jam (1 week ago)
+- [0xGlitchbyte/gblib](https://github.com/0xGlitchbyte/gblib) - Single header lib for all my C needs. (3 weeks ago)
 - [0xGlitchbyte/awesome-caravan](https://github.com/0xGlitchbyte/awesome-caravan) - A curated collection of the awesome work the Caravan Community is doing (8 months ago)
+- [0xGlitchbyte/OCrab](https://github.com/0xGlitchbyte/OCrab) - A Rust to OCaml source to source translator (8 months ago)
 - [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) - The official OCaml website. (9 months ago)
 
 #### 🌱 My latest projects
@@ -29,7 +29,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [cleaned up redirection urls](https://github.com/ocaml/ocaml.org/pull/1969) on [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) (9 months ago)
 - [cleaned up redirection urls](https://github.com/ocaml/ocaml.org/pull/1968) on [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) (9 months ago)
 - [updated links in README](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/8) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (9 months ago)
-- [Finished chapter 01_hello_world](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/7) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (9 months ago)
+- [Finished chapter 01_hello_world](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/7) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (10 months ago)
 - [cleaned some more links](https://github.com/0xGlitchbyte/learn_rust_with_tests/pull/6) on [0xGlitchbyte/learn_rust_with_tests](https://github.com/0xGlitchbyte/learn_rust_with_tests) (10 months ago)
 
 #### 📜 My recent blog posts
@@ -38,11 +38,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [skerkour/kerkour.com](https://github.com/skerkour/kerkour.com) - (Ab)using technology for fun &amp; profit. Programming, Hacking &amp; Entrepreneurship @ https://kerkour.com (2 days ago)
-- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (6 days ago)
-- [phy1um/ps2-homebrew-livestreams](https://github.com/phy1um/ps2-homebrew-livestreams) - Repo for code written during my Playstation 2 Homebrew livestreams (2 weeks ago)
-- [ps2dev/ps2sdk](https://github.com/ps2dev/ps2sdk) - Homebrew PS2 SDK (2 weeks ago)
-- [h4570/tyra](https://github.com/h4570/tyra) - Game engine for PlayStation 2™ (2 weeks ago)
+- [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) - A brief computer graphics / rendering course (2 days ago)
+- [skerkour/kerkour.com](https://github.com/skerkour/kerkour.com) - (Ab)using technology for fun &amp; profit. Programming, Hacking &amp; Entrepreneurship @ https://kerkour.com (6 days ago)
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (1 week ago)
+- [phy1um/ps2-homebrew-livestreams](https://github.com/phy1um/ps2-homebrew-livestreams) - Repo for code written during my Playstation 2 Homebrew livestreams (3 weeks ago)
+- [ps2dev/ps2sdk](https://github.com/ps2dev/ps2sdk) - Homebrew PS2 SDK (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
