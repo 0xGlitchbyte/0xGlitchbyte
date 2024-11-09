@@ -9,8 +9,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [0xGlitchbyte/GalacticGolf](https://github.com/0xGlitchbyte/GalacticGolf) - A physics based golf minigame for the 2024 N64brew Game Jam (1 week ago)
 - [0xGlitchbyte/gblib](https://github.com/0xGlitchbyte/gblib) - Single header lib for all my C needs. (3 weeks ago)
-- [0xGlitchbyte/awesome-caravan](https://github.com/0xGlitchbyte/awesome-caravan) - A curated collection of the awesome work the Caravan Community is doing (8 months ago)
-- [0xGlitchbyte/OCrab](https://github.com/0xGlitchbyte/OCrab) - A Rust to OCaml source to source translator (8 months ago)
+- [0xGlitchbyte/awesome-caravan](https://github.com/0xGlitchbyte/awesome-caravan) - A curated collection of the awesome work the Caravan Community is doing (9 months ago)
+- [0xGlitchbyte/OCrab](https://github.com/0xGlitchbyte/OCrab) - A Rust to OCaml source to source translator (9 months ago)
 - [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) - The official OCaml website. (9 months ago)
 
 #### 🌱 My latest projects
@@ -38,8 +38,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) - A brief computer graphics / rendering course (2 days ago)
-- [skerkour/kerkour.com](https://github.com/skerkour/kerkour.com) - (Ab)using technology for fun &amp; profit. Programming, Hacking &amp; Entrepreneurship @ https://kerkour.com (6 days ago)
+- [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) - A brief computer graphics / rendering course (3 days ago)
+- [skerkour/kerkour.com](https://github.com/skerkour/kerkour.com) - (Ab)using technology for fun &amp; profit. Programming, Hacking &amp; Entrepreneurship @ https://kerkour.com (1 week ago)
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (1 week ago)
 - [phy1um/ps2-homebrew-livestreams](https://github.com/phy1um/ps2-homebrew-livestreams) - Repo for code written during my Playstation 2 Homebrew livestreams (3 weeks ago)
 - [ps2dev/ps2sdk](https://github.com/ps2dev/ps2sdk) - Homebrew PS2 SDK (3 weeks ago)
