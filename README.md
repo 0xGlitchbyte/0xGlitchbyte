@@ -38,7 +38,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) - A brief computer graphics / rendering course (3 days ago)
+- [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) - A brief computer graphics / rendering course (4 days ago)
 - [skerkour/kerkour.com](https://github.com/skerkour/kerkour.com) - (Ab)using technology for fun &amp; profit. Programming, Hacking &amp; Entrepreneurship @ https://kerkour.com (1 week ago)
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (1 week ago)
 - [phy1um/ps2-homebrew-livestreams](https://github.com/phy1um/ps2-homebrew-livestreams) - Repo for code written during my Playstation 2 Homebrew livestreams (3 weeks ago)
