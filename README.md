@@ -18,7 +18,7 @@ I mostly work in Rust and C, with projects that lean toward systems programming,
 - [bitwarden/agent-access](https://github.com/bitwarden/agent-access) — Agent Access is an open protocol, CLI tool, and SDK to provide agents with credentials without exposing their entire vault (1 week ago)
 - [0xGlitchbyte/N64devkit](https://github.com/0xGlitchbyte/N64devkit) — Develop games in C for the Nintendo 64. Includes Debian C/C&#43;&#43; build tools as well as the N64 modern-sdk toolchain by CrashOveride.* (2 weeks ago)
 - [aradzie/keybr.com](https://github.com/aradzie/keybr.com) — The smartest way to learn touch typing and improve your typing speed. (4 months ago)
-- [0xGlitchbyte/pikuma_engine](https://github.com/0xGlitchbyte/pikuma_engine) — Implementation of the Pikuma 2D game engine (5 months ago)
+- [0xGlitchbyte/pikuma_engine](https://github.com/0xGlitchbyte/pikuma_engine) — Implementation of the Pikuma 2D game engine (6 months ago)
 - [0xGlitchbyte/cs_from_scratch](https://github.com/0xGlitchbyte/cs_from_scratch) — CS from first principles, implemented one project at a time. (6 months ago)
 
 ## Latest writing
