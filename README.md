@@ -15,7 +15,7 @@ I mostly work in Rust and C, with projects that lean toward systems programming,
 ## Current activity
 
 
-- [0xGlitchbyte/cpp_template](https://github.com/0xGlitchbyte/cpp_template) (4 days ago)
+- [0xGlitchbyte/cpp_template](https://github.com/0xGlitchbyte/cpp_template) (5 days ago)
 - [bitwarden/agent-access](https://github.com/bitwarden/agent-access) — Agent Access is an open protocol, CLI tool, and SDK to provide agents with credentials without exposing their entire vault (4 weeks ago)
 - [0xGlitchbyte/N64devkit](https://github.com/0xGlitchbyte/N64devkit) — Develop games in C for the Nintendo 64. Includes Debian C/C&#43;&#43; build tools as well as the N64 modern-sdk toolchain by CrashOveride.* (1 month ago)
 - [aradzie/keybr.com](https://github.com/aradzie/keybr.com) — The smartest way to learn touch typing and improve your typing speed. (4 months ago)
