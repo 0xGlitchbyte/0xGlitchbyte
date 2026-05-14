@@ -19,7 +19,7 @@ I mostly work in Rust and C, with projects that lean toward systems programming,
 - [0xGlitchbyte/N64devkit](https://github.com/0xGlitchbyte/N64devkit) — Develop games in C for the Nintendo 64. Includes Debian C/C&#43;&#43; build tools as well as the N64 modern-sdk toolchain by CrashOveride.* (2 months ago)
 - [aradzie/keybr.com](https://github.com/aradzie/keybr.com) — The smartest way to learn touch typing and improve your typing speed. (5 months ago)
 - [0xGlitchbyte/pikuma_engine](https://github.com/0xGlitchbyte/pikuma_engine) — Implementation of the Pikuma 2D game engine (7 months ago)
-- [0xGlitchbyte/cs_from_scratch](https://github.com/0xGlitchbyte/cs_from_scratch) — CS from first principles, implemented one project at a time. (7 months ago)
+- [0xGlitchbyte/cs_from_scratch](https://github.com/0xGlitchbyte/cs_from_scratch) — CS from first principles, implemented one project at a time. (8 months ago)
 
 ## Latest writing
 
